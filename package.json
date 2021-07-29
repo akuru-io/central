@@ -1,0 +1,16 @@
+{
+  "name": "akuru-central",
+  "version": "1.0.0",
+  "scripts": {
+    "setup": "git submodule update --init && npm i",
+    "update": "git submodule update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akuru-io/central.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akuru-io/central/issues"
+  },
+  "homepage": "https://github.com/akuru-io/central#readme"
+}
