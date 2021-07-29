@@ -1,0 +1,6 @@
+[submodule "akuru-server"]
+	path = akuru-server
+	url = git@github.com:akuru-io/akuru-server.git
+[submodule "akuru-installer"]
+	path = akuru-installer
+	url = git@github.com:akuru-io/akuru-installer.git
