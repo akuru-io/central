@@ -6,7 +6,7 @@
 
 ```
 git clone git@github.com:akuru-io/central.git akuru-central
-cd central
+cd akuru-central
 npm run setup // this will install all the dependecies and initialize git-submodule
 ```
 
